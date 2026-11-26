@@ -64,5 +64,5 @@ Rosy works at the level of the browser's current tab and only transmits the nece
 
 <details>
 <summary><b>Is it free?</b></summary>
-Yes, made with love.
+Yes, made for love.
 </details>
